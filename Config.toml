@@ -1,0 +1,7 @@
+[Project]
+
+[Project.Rust]
+prj = []
+
+[Project.Elixir]
+prj = ["api-prj"]
